@@ -79,7 +79,7 @@ import CreditCard from 'react-native-credit-card';
 
 #### Todo
 
-- Automated test
+- Automated tests
 - More credit card type variations
 
 #### Examples
